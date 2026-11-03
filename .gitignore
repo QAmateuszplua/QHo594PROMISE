@@ -1,0 +1,8 @@
+# Local environment files
+.env
+.env.*
+# Generated Python files
+__pycache__/
+*.pyc
+# Local Python virtual environment
+.venv/
